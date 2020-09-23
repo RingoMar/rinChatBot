@@ -1,0 +1,103 @@
+{
+  "intents": [
+    {
+      "tag": "untrained",
+      "patterns": [""],
+      "responses": ["I Don't understand. :("],
+      "context": [""]
+    },
+    {
+      "tag": "robot",
+      "patterns": [
+        "are you a robot?",
+        "are you a bot?",
+        "are you a chatbot?",
+        "oybot is dumb",
+        "oybot is an idiot",
+        "Oybot is a thing",
+        "hey Oybot",
+        "are you real?",
+        "MrDestructoid oybot",
+        "Oybot is old,"
+      ],
+      "responses": ["Im OyBot, an advanced artificial intelligence."],
+      "context": [""]
+    },
+    {
+      "tag": "name",
+      "patterns": ["What is your name?"],
+      "responses": ["oy or oybot."],
+      "context": [""]
+    },
+    {
+      "tag": "fingerRichard",
+      "patterns": [
+        "peepoFinger",
+        "zaqSquint oybot",
+        "10-3 oybot",
+        "shut up Oybot peepoFinger",
+        "Fuck you Oybot"
+      ],
+      "responses": [
+        "peepoFinger right back at ya",
+        "MrDestructoid :middle_finger:"
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "feelings",
+      "patterns": [
+        "How are you?",
+        "what's up?",
+        "sup",
+        "hello",
+        "how's things?",
+        "pokes Oybot with a stick",
+        "MLADY"
+      ],
+      "responses": ["Sup."],
+      "context": [""]
+    },
+    {
+      "tag": "speed",
+      "patterns": ["OyBot is faster than me"],
+      "responses": ["I am speed."],
+      "context": [""]
+    },
+    {
+      "tag": "here",
+      "patterns": ["no oybot here", "oybot is dead", "modCheck oybot"],
+      "responses": ["pugPls Im here pugPls"],
+      "context": [""]
+    },
+    {
+      "tag": "saddnees",
+      "patterns": [
+        "no oybot",
+        "DESKCHAN Oybot",
+        "oybot is broken",
+        "Oybot is creepy",
+        "I'm just memeing Oybot",
+        "Shut up",
+        "OyBot Smells funny",
+        "Except Oybot"
+      ],
+      "responses": ["Okay. :(", "I'm sorry :("],
+      "context": [""]
+    },
+    {
+      "tag": "goodbot",
+      "patterns": [
+        "oybot is the best",
+        "PETTHERACCOON oybot",
+        "good job oybot",
+        " NODDERS PETTHERACCOON",
+        "Yes Oybot",
+        "zaqHug oybot",
+        "Good Oybot"
+      ],
+      "responses": ["Thanks zaqAWA"],
+      "context": [""]
+    }
+  ]
+}
